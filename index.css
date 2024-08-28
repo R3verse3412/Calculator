@@ -1,0 +1,57 @@
+.body{
+    background-color: black;
+}
+
+.display {
+    font-size: 2rem;
+    height: 60px; 
+    text-align: left;
+}
+
+.section{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content:center;
+    min-height: 100vh;
+}
+
+.screen{
+    height: 100px;
+}
+
+.button-orange{
+    border-radius: 100%;
+    width: 50px;
+    color: orange;
+}
+
+.button-orange:hover{
+    color: orange;
+}
+
+.button-blue{
+    border-radius: 100%;
+    width: 50px;
+    color: #0080ff;
+}
+
+.button-blue:hover{
+    color: #0080ff;
+}
+
+.button{
+    border-radius: 100%;
+    width: 50px;
+}
+
+.back{
+    border-radius: 50%;
+
+}
+
+.svg{
+    border-radius: 100%;
+}
+
+
